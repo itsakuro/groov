@@ -48,3 +48,12 @@ document.body.append(homeIcon);
 ```
 ---
 Woohoo! You're now a pro at adding Groov icons to your website. We should celebrate! 🪅
+
+# Credit
+All the icons and the logo were designed by [yours truly](https://github.com/itsakuro).
+
+Designed in [Figma](https://figma.com)
+
+[Groov](https://github.com/itsakuro/groov/) is licensed under the [CC-BY-SA-4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/) license.
+
+![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
